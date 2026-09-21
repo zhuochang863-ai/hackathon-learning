@@ -13,3 +13,4 @@ My 30-day journey to prepare for my first AI hackathon.
 ## Progress
 
 - Day 1: GitHub basics
+- Day 1 practice: cloned the repo to my local computer.
